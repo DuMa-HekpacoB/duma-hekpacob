@@ -1,16 +1,31 @@
-### Hi there 👋
+## Aloha, это Дмитрий Некрасов
 
-<!--
-**DuMa-HekpacoB/duma-hekpacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---------
 
-Here are some ideas to get you started:
+###**Чем я занимаюсь?**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Я начинающий ```python backend developer```, сейчас в 
+активном поиске работы
+
+--------
+
+###**Contact with me:**
+
+-[VK](https://vk.com/dimanekrasov2015)
+
+-[Gmail](nekrasov.dima26052000@gmail.com)
+
+-[Telegram](https://t.me/HekpacoB1)
+
+--------
+
+###**Language and Tools**
+
+![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=1c6c01)
+![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask&logoColor=efefef)
+![SQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=6c073b)
+![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-090909?style=for-the-badge&logo=themoviedatabase&logoColor=c82b1d)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=0a21ef)
+![pytest](https://img.shields.io/badge/-pytest-090909?style=for-the-badge&logo=pytest)
+![linux](https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux)
+![git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git)
