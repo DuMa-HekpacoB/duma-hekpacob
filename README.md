@@ -1,15 +1,15 @@
-## Aloha, это Дмитрий Некрасов
+# Aloha, это Дмитрий Некрасов
 
 ---------
 
-###**Чем я занимаюсь?**
+##**Чем я занимаюсь?**
 
 Я начинающий ```python backend developer```, сейчас в 
 активном поиске работы
 
 --------
 
-###**Contact with me:**
+##**Contact with me:**
 
 -[VK](https://vk.com/dimanekrasov2015)
 
@@ -19,7 +19,7 @@
 
 --------
 
-###**Language and Tools**
+##**Language and Tools**
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=1c6c01)
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=flask&logoColor=efefef)
