@@ -2,14 +2,14 @@
 
 ---------
 
-##**Чем я занимаюсь?**
+## **Чем я занимаюсь?**
 
 Я начинающий ```python backend developer```, сейчас в 
 активном поиске работы
 
 --------
 
-##**Contact with me:**
+## **Contact with me:**
 
 -[VK](https://vk.com/dimanekrasov2015)
 
